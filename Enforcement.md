@@ -6,7 +6,7 @@ This is the enforcement manual followed by TC39's Code of Conduct Committee. It'
 
 All responses to reports of conduct violations will be managed by a [Code of Conduct Committee][] ("the committee").
 
-The TC39 ??? ("the board") will establish this committee, comprised of at least three members. One member will be designated chair of the committee and will be responsible for all reports back to the board. The board will review membership on a regular basis.
+TC39 will establish this committee, comprised of at least three members. One member will be designated chair of the committee and will be responsible for all reports back to the board. The board will review membership on a regular basis.
 
 ### How the Committee Will Respond to Reports
 
@@ -48,7 +48,7 @@ Possible responses may include:
 
 Once a resolution is agreed upon, but before it is enacted, the committee will contact the original reporter and any other affected parties and explain the proposed resolution. The committee will ask if this resolution is acceptable, and must note feedback for the record. However, the committee is not required to act on this feedback.
 
-Finally the committee will make a report for the TC39 ???. The committee will never publicly discuss the issue; all public statements will be made by the TC39 ???.
+Finally the committee will make a report of the TC39 members and respective delegates and the ECMA secretariat. The committee will never publicly discuss the issue; all public statements will be made by the TC39 Chair and/or the ECMA Secretariat.
 
 ### Conflicts of Interest
 

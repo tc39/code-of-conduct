@@ -12,6 +12,6 @@ Committee Members:
 
 You can contact [???][]. For more details please see the [Reporting Guidelines][].
 
-[JS Foundation Code of Conduct]: Conduct.md
+[TC39 Code of Conduct]: Conduct.md
 [conduct@js.foundation]: mailto:???@???.com
 [Reporting Guidelines]: Reporting.md

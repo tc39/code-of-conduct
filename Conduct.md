@@ -1,6 +1,6 @@
 # TC39 Code of Conduct
 
-Like the technical community as a whole, TC39 is made up of a mixture of professionals and volunteers from all over the world. Diversity is one of our goals, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to all TC39 delegates and those seeking help and guidance.
+Like the technical community as a whole, TC39 is made up of a mixture of professionals and volunteers from all over the world. Diversity is one of our goals, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to all TC39 delegates and member guests seeking help and guidance.
 
 This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
