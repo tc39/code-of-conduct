@@ -1,5 +1,6 @@
+# Reporting Guidelines
 
-If you believe someone is violating the Code of Conduct we ask that you report it to the JS Foundation by emailing [conduct@js.foundation][]. **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+If you believe someone is violating the Code of Conduct we ask that you report it to TC39 by emailing [???][]. **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
 ### If you believe anyone is in physical danger, please notify appropriate law enforcement first
 
@@ -21,4 +22,6 @@ Reports will receive urgent and immediate attention from the Code of Conduct Com
 
 ### Appealing
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the committee, contact the JS Foundation President and Executive Director at [executive@js.foundation][] with your appeal and they will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the committee, contact the TC39 ??? at [???][] with your appeal and they will review the case.
+
+[Enforcement Manual]: Enforcement.md
