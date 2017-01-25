@@ -1,12 +1,12 @@
-Like the technical community as a whole, the various JS Foundation teams and communities are made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
+# TC39 Code of Conduct
 
-Diversity is one of our huge strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to founders, mentors and those seeking help and guidance.
+Like the technical community as a whole, TC39 is made up of a mixture of professionals and volunteers from all over the world. Diversity is one of our goals, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to all TC39 delegates and member guests seeking help and guidance.
 
 This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
-This Code of Conduct applies to all spaces managed by the JS Foundation and its projects. This includes IRC, the mailing lists, the issue trackers, JS Foundation events, and any other forums created by the project teams which the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
+This Code of Conduct applies to all spaces managed by TC39. This includes IRC, mailing lists, issue trackers, TC39 events, and any other forums created by TC39 delegates which the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [conduct@js.foundation][]. For more details, please see our [Reporting Guidelines][].
+If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [???][]. For more details, please see our [Reporting Guidelines][].
 
 ### Be friendly and patient
 
@@ -39,16 +39,16 @@ We are a community of professionals, and we conduct ourselves professionally. Be
 
 ### When we disagree, try to understand why
 
-Disagreements, both social and technical, happen all the time and JS Foundation projects are no exception. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of the JS Foundation comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we're different. There is strength in having a varied community with people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
 Original text courtesy of the [Speak Up! project][] and [Django Project][].
 
 ## Questions?
 
-If you have questions, please see the [FAQ][]. If that doesn't answer your questions, feel free to email [conduct@js.foundation][].
+If you have questions, please see the [FAQ][]. If that doesn't answer your questions, feel free to email [???][].
 
-[conduct@js.foundation]: mailto:conduct@js.foundation
-[Reporting Guidelines]: {{site.url}}/conduct/reporting/
+[???]: mailto:???@???.com
+[Reporting Guidelines]: Reporting.md
 [Speak Up! project]: http://speakup.io/coc.html
 [Django Project]: https://www.djangoproject.com/conduct/
-[FAQ]: {{site.url}}/conduct/faq/
+[FAQ]: FAQ.md
