@@ -22,7 +22,7 @@ Your work will be used by other people, and you in turn will depend on the work 
 
 ### Be respectful
 
-Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the JS Foundation community should be respectful when dealing with other members as well as with people outside the JS Foundation community.
+Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the TC39 community should be respectful when dealing with other members as well as with people outside the TC39 community.
 
 ### Be careful in the words that you choose
 
