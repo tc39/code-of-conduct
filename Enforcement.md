@@ -1,6 +1,6 @@
 # Enforcement Manual
 
-This is the enforcement manual followed by TC39's Code of Conduct Committee. It's used when we respond to an issue to make sure we're consistent and fair. It should be considered an internal document, but we're publishing it publicly in the interest of transparency.
+This is the enforcement manual followed by TC39's Code of Conduct Committee. It's used when we respond to an issue to make sure we're consistent and fair.
 
 ### The Code of Conduct Committee
 
