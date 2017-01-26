@@ -1,6 +1,8 @@
 # Reporting Guidelines
 
-If you believe someone is violating the Code of Conduct we ask that you report it to TC39 by emailing [???][]. **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+If you believe someone is violating the Code of Conduct we ask that you report it to TC39 by emailing [???][]. **All reports will be kept confidential.** This isn't a public list and only [members](Committee.md) of the advisory committee will receive the report.
+
+In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
 ### If you believe anyone is in physical danger, please notify appropriate law enforcement first
 
