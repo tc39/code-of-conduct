@@ -18,7 +18,7 @@ In your report please include:
 
 ### What happens after you file a report?
 
-Reports will receive urgent and immediate attention from the Code of Conduct Committee. Please refer to the [Enforcement Manual][] for the complete information on how reports will be processed. Though normally considered an internal document, it has been published in full in the interest of transparency.
+Reports will receive urgent and immediate attention from the Code of Conduct Committee. Please refer to the [Enforcement Manual][] for the complete information on how reports will be processed.
 
 ### Appealing
 
