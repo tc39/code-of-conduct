@@ -52,7 +52,7 @@ Finally the subcommittee will make a report of the TC39 members and respective d
 
 ### Conflicts of Interest
 
-In the event of any conflict of interest a subcommittee member must immediately notify the other members, and recuse themselves if necessary.
+In the event of any conflict of interest - i.e., members who are personally connected to a situation - a subcommittee member must immediately notify the other members, and recuse themselves if necessary.
 
 [Code of Conduct Enforcement Subcommittee]: Committee.md
 [Reporting Guidelines]: Reporting.md
