@@ -10,7 +10,7 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 
 ### Be friendly and patient
 
-We understand that everyone has different levels of experience or knowledge in many diverse fields, be it technical or non-technical in nature. We also have areas of knowledge we are eager to expand; we want to be a community where people can not only contribute, but feel comfortable to ask questions as well and learn along the way. If someone says something wrong, or says something accidentally offensive, respond with patience and try to keep it polite and civil. Remember that we all were newbies at one point.
+We understand that everyone has different levels of experience or knowledge in many diverse fields, be it technical or non-technical in nature. We also have areas of knowledge we are eager to expand; we want to be a community where people can not only contribute, but feel comfortable to ask questions as well and learn along the way. If you're offended and decide to let the offender know, please do so in a polite and civil manner. Remember that we all were newbies at one point.
 
 ### Be welcoming
 
