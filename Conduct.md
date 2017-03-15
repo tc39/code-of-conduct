@@ -4,7 +4,7 @@ Like the technical community as a whole, TC39 is made up of a mixture of profess
 
 This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate and empower others to speak.
 
-This Code of Conduct applies to all spaces managed by TC39. This includes IRC, mailing lists, issue trackers, TC39 events, and any other forums created by TC39 delegates which the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
+This Code of Conduct applies to all spaces managed by TC39. This includes IRC channels moderated by the TC39, mailing lists as the es-discuss, issue trackers on projects hosted by TC39, TC39 events as the meetings and others hosted by or representing TC39. In addition, violations of this code outside these spaces by a person others known to be a TC39 member is an act of representing TC39 may affect a person's ability to participate within them.
 
 If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [???][]. For more details, please see our [Reporting Guidelines][].
 
