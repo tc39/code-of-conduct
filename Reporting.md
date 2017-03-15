@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the Code of Conduct we ask that you report it to TC39 by emailing [???][]. **All reports will be kept confidential.** This isn't a public list and only [members](Committee.md) of the advisory committee will receive the report.
+If you believe someone is violating the Code of Conduct we ask that you report it to TC39 by emailing [???][]. **All reports will be kept confidential.** This isn't a public list and only [members](Committee.md) of the enforcement subcommittee will receive the report.
 
 In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -20,10 +20,10 @@ In your report please include:
 
 ### What happens after you file a report?
 
-Reports will receive urgent and immediate attention from the Code of Conduct Committee. Please refer to the [Enforcement Manual][] for the complete information on how reports will be processed.
+Reports will receive urgent and immediate attention from the Code of Conduct Enforcement Subcommittee. Please refer to the [Enforcement Manual][] for the complete information on how reports will be processed.
 
 ### Appealing
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the committee, contact the TC39 ??? at [???][] with your appeal and they will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the subcommittee, contact the TC39 ??? at [???][] with your appeal and they will review the case.
 
 [Enforcement Manual]: Enforcement.md
