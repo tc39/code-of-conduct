@@ -2,7 +2,7 @@
 
 Like the technical community as a whole, TC39 is made up of a mixture of professionals and volunteers from all over the world. To avoid communication issues and unhappiness, and to promote inclusiveness, we have a few ground rules that we ask people to adhere to.
 
-This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
+This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate and empower others to speak.
 
 This Code of Conduct applies to all spaces managed by TC39. This includes IRC, mailing lists, issue trackers, TC39 events, and any other forums created by TC39 delegates which the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
