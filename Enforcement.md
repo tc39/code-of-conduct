@@ -8,7 +8,7 @@ All responses to reports of conduct violations will be managed by a [Code of Con
 
 TC39 will establish this subcommittee, comprised of at least three members. One member will be designated chair of the subcommittee and will be responsible for all reports back to TC39. TC39 will review membership on a regular basis.
 
-### How the subCommittee Will Respond to Reports
+### How the subcommittee Will Respond to Reports
 
 When a report is sent to the subcommittee they will immediately reply to the report to confirm receipt. This reply must be sent within 24 hours, and the subcommittee should strive to respond more quickly than that.
 
@@ -52,7 +52,7 @@ Finally the subcommittee will make a report of the TC39 members and respective d
 
 ### Conflicts of Interest
 
-In the event of any conflict of interest - i.e., members who are personally connected to a situation - a subcommittee member must immediately notify the other members, and recuse themselves if necessary.
+In the event of any conflict of interest - i.e., members who are personally connected to a situation - a subcommittee member must immediately notify the other members, and recuse themselves.
 
 [Code of Conduct Enforcement Subcommittee]: Committee.md
 [Reporting Guidelines]: Reporting.md
