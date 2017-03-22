@@ -14,7 +14,7 @@ For the most part, we don't think it means large changes. We think that the text
 
 However, we do expect that people will abide by the spirit and words of the CoC when in "official" TC39 spaces. This code has been adopted by TC39. That means that it'll apply both in community spaces _and_ at TC39 events.
 
-In practice, this means the any TC39 IRC channels, bug tracking and code review tools, and "official" TC39 events.
+In practice, this means any TC39 IRC channels, bug tracking and code review tools, and "official" TC39 events.
 
 ### What about TC39 events?
 
