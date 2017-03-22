@@ -1,8 +1,8 @@
-# Code of Conduct Committee
+# Code of Conduct Enforcement Subcommittee
 
-The Code of Conduct Committee deals with violations in the [TC39 Code of Conduct][].
+The Code of Conduct Enforcement Subcommittee deals with violations in the [TC39 Code of Conduct][].
 
-Committee Members:
+Subcommittee Members:
 
 * TBD
 * TBD
@@ -13,5 +13,5 @@ Committee Members:
 You can contact [???][]. For more details please see the [Reporting Guidelines][].
 
 [TC39 Code of Conduct]: Conduct.md
-[conduct@js.foundation]: mailto:???@???.com
+[conduct@???.com]: mailto:???@???.com
 [Reporting Guidelines]: Reporting.md

@@ -1,16 +1,16 @@
 # TC39 Code of Conduct
 
-Like the technical community as a whole, TC39 is made up of a mixture of professionals and volunteers from all over the world. Diversity is one of our goals, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to all TC39 delegates and member guests seeking help and guidance.
+Like the technical community as a whole, TC39 is made up of a mixture of professionals and volunteers from all over the world. To avoid communication issues and unhappiness, and to promote inclusiveness, we have a few ground rules that we ask people to adhere to.
 
-This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
+This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate and empower others to speak.
 
-This Code of Conduct applies to all spaces managed by TC39. This includes IRC, mailing lists, issue trackers, TC39 events, and any other forums created by TC39 delegates which the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
+This Code of Conduct is enforced within all spaces managed by TC39. This includes IRC channels moderated by TC39, mailing lists as the es-discuss, issue trackers on projects hosted by TC39, TC39 events as the meetings and others hosted by or representing TC39.
 
 If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [???][]. For more details, please see our [Reporting Guidelines][].
 
 ### Be friendly and patient
 
-We understand that everyone has different levels of experience or knowledge in many diverse fields, be it technical or non-technical in nature. We also have areas of knowledge we are eager to expand; we want to be a community where people can not only contribute, but feel comfortable to ask questions as well and learn along the way. If someone says something wrong, or says something accidentally offensive, respond with patience and try to keep it polite and civil. Remember that we all were newbies at one point.
+We understand that everyone has different levels of experience or knowledge in many diverse fields, be it technical or non-technical in nature. We also have areas of knowledge we are eager to expand; we want to be a community where people can not only contribute, but feel comfortable to ask questions as well and learn along the way. When correcting another participant, respond with patience and try to keep it polite and civil. Remember that we all were newbies at one point.
 
 ### Be welcoming
 
