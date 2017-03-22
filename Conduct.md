@@ -4,13 +4,13 @@ Like the technical community as a whole, TC39 is made up of a mixture of profess
 
 This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us and the technical communities in which we participate and empower others to speak.
 
-This Code of Conduct is enforced within all spaces managed by TC39. This includes IRC channels moderated by TC39, mailing lists as the es-discuss, issue trackers on projects hosted by TC39, TC39 events as the meetings and others hosted by or representing TC39.
+This Code of Conduct is enforced within all spaces managed by TC39. This includes IRC channels moderated by TC39, mailing lists such as es-discuss, issue trackers on projects hosted by TC39, and TC39 events and meetings.
 
 If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [???][]. For more details, please see our [Reporting Guidelines][].
 
 ### Be friendly and patient
 
-We understand that everyone has different levels of experience or knowledge in many diverse fields, be it technical or non-technical in nature. We also have areas of knowledge we are eager to expand; we want to be a community where people can not only contribute, but feel comfortable to ask questions as well and learn along the way. When correcting another participant, respond with patience and try to keep it polite and civil. Remember that we all were newbies at one point.
+We understand that everyone has different levels of experience or knowledge in many diverse fields, be it technical or non-technical in nature. We also have areas of knowledge we are eager to expand. We want to be a community where people can not only contribute, but feel comfortable to ask questions as well and learn along the way. When correcting another participant, respond with patience and try to keep it polite and civil. Remember that we all were newbies at one point.
 
 ### Be welcoming
 
