@@ -41,6 +41,6 @@ However, even if everyone were kind, compassionate, and familiar with codes of c
 
 You do -- in _your_ space. If you'd like to hang out in _our_ spaces (as clarified above), we have some simple guidelines to follow. If you want to, for example, form a group where TC39 proposals are discussed using language inappropriate for general channels then nobody's stopping you. We respect your right to establish whatever codes of conduct you want in the spaces that belong to you. Please honor this Code of Conduct in our spaces.
 
-[Code of Conduct]: /
+[Code of Conduct]: /code-of-conduct-proposal
 [tc39-conduct]: mailto:tc39-conduct@ecma-international.com
-[Reporting Guidelines]: /reporting
+[Reporting Guidelines]: /code-of-conduct-proposal/reporting

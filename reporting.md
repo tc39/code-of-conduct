@@ -5,7 +5,7 @@ title: Reporting
 
 # Reporting Guidelines
 
-If you believe someone is violating the Code of Conduct we ask that you report it to TC39 by emailing [tc39-conduct@ecma-international.com][tc39-conduct]. **All reports will be kept confidential.** This isn't a public list and only [members](/subcommittee) of the enforcement subcommittee will receive the report.
+If you believe someone is violating the Code of Conduct we ask that you report it to TC39 by emailing [tc39-conduct@ecma-international.com][tc39-conduct]. **All reports will be kept confidential.** This isn't a public list and only [members](/code-of-conduct-proposal/subcommittee) of the enforcement subcommittee will receive the report.
 
 In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -31,5 +31,5 @@ Reports will receive urgent and immediate attention from the Code of Conduct Enf
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the subcommittee, contact the TC39 Code of Conduct group at [tc39-conduct@ecma-international.com][tc39-conduct] with your appeal and they will review the case.
 
-[Enforcement Manual]: /enforcement
+[Enforcement Manual]: /code-of-conduct-proposal/enforcement
 [tc39-conduc]: mailto:tc39-conduct@ecma-international.com

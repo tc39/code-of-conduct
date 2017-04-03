@@ -11,4 +11,4 @@ This only applies to material changes; changes that don't affect the intent (typ
 
 ## Changelog
 
-[conduct subcommittee]: /subcommittee
+[conduct subcommittee]: /code-of-conduct-proposal/subcommittee
