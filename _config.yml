@@ -17,7 +17,7 @@ title: Code of Conduct (Proposal)
 email: tc39-conduct@ecma-international.com
 description: >
   The JS community is awesome.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/code-of-conduct-proposal" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
