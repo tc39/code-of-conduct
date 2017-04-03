@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 # TC39 Code of Conduct
