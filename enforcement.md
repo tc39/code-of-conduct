@@ -1,3 +1,8 @@
+---
+layout: home
+title: Enforcement
+---
+
 # Enforcement Manual
 
 This is the enforcement manual followed by TC39's Code of Conduct Enforcement Subcommittee. It's used when we respond to an issue to make sure we're consistent and fair.
@@ -54,5 +59,5 @@ Finally the subcommittee will make a report of the TC39 members and respective d
 
 In the event of any conflict of interest - i.e., members who are personally connected to a situation - a subcommittee member must immediately notify the other members, and recuse themselves.
 
-[Code of Conduct Enforcement Subcommittee]: Committee.md
-[Reporting Guidelines]: Reporting.md
+[Code of Conduct Enforcement Subcommittee]: /subommittee
+[Reporting Guidelines]: /reporting
