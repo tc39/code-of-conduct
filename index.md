@@ -53,8 +53,8 @@ Original text courtesy of [JSFoundation][], [Speak Up! project][], and [Django P
 If you have questions, please see the [FAQ][]. If that doesn't answer your questions, feel free to [email us][tc39-conduct].
 
 [tc39-conduct]: mailto:tc39-conduct@ecma-international.com
-[Reporting Guidelines]: /reporting
+[Reporting Guidelines]: /code-of-conduct-proposal/reporting
 [Speak Up! project]: http://speakup.io/coc.html
 [Django Project]: https://www.djangoproject.com/conduct/
 [JSFoundation]: https://js.foundation/conduct/
-[FAQ]: /FAQ
+[FAQ]: /code-of-conduct-proposal/FAQ
