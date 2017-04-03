@@ -1,6 +1,11 @@
+---
+layout: home
+title: FAQ
+---
+
 # Frequently Asked Questions
 
-This FAQ attempts to address common questions and concerns around TC39's [Code of Conduct][]. If you still have questions after reading it, please feel free to [contact us][].
+This FAQ attempts to address common questions and concerns around TC39's [Code of Conduct][]. If you still have questions after reading it, please feel free to [contact us][tc39-conduct].
 
 ### Why have you adopted a Code of Conduct?
 
@@ -24,7 +29,7 @@ Real-life events, however, require a bit more care. TC39 wants to be sure that a
 
 ### What happens if someone violates the Code of Conduct?
 
-Our intent is that anyone in the community can stand up for this Code, and direct people who are unaware of this document. If that doesn't work, or if you need more help, you can contact [???][]. For more details please see our [Reporting Guidelines][].
+Our intent is that anyone in the community can stand up for this Code, and direct people who are unaware of this document. If that doesn't work, or if you need more help, you can contact [tc39-conduct@ecma-international.com][tc39-conduct]. For more details please see our [Reporting Guidelines][].
 
 ### Why do we need a Code of Conduct? Everyone knows not to be a jerk.
 
@@ -36,6 +41,6 @@ However, even if everyone were kind, compassionate, and familiar with codes of c
 
 You do -- in _your_ space. If you'd like to hang out in _our_ spaces (as clarified above), we have some simple guidelines to follow. If you want to, for example, form a group where TC39 proposals are discussed using language inappropriate for general channels then nobody's stopping you. We respect your right to establish whatever codes of conduct you want in the spaces that belong to you. Please honor this Code of Conduct in our spaces.
 
-[Code of Conduct]: Conduct.md
-[contact us]: mailto:???
-[Reporting Guidelines]: Reporting.md
+[Code of Conduct]: /
+[tc39-conduct]: mailto:tc39-conduct@ecma-international.com
+[Reporting Guidelines]: /reporting

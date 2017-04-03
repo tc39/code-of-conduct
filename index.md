@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 # TC39 Code of Conduct
 
 Like the technical community as a whole, TC39 is made up of a mixture of professionals and volunteers from all over the world. To avoid communication issues and unhappiness, and to promote inclusiveness, we have a few ground rules that we ask people to adhere to.
@@ -6,7 +11,7 @@ This isn't an exhaustive list of things that you can't do. Rather, take it in th
 
 This Code of Conduct is enforced within all spaces managed by TC39. This includes IRC channels moderated by TC39, mailing lists such as es-discuss, issue trackers on projects hosted by TC39, and TC39 events and meetings.
 
-If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [???][]. For more details, please see our [Reporting Guidelines][].
+If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct@ecma-international.com][tc39-conduct]. For more details, please see our [Reporting Guidelines][].
 
 ### Be friendly and patient
 
@@ -41,14 +46,15 @@ We are a community of professionals, and we conduct ourselves professionally. Be
 
 Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we're different. There is strength in having a varied community with people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
-Original text courtesy of the [Speak Up! project][] and [Django Project][].
+Original text courtesy of [JSFoundation][], [Speak Up! project][], and [Django Project][].
 
 ## Questions?
 
-If you have questions, please see the [FAQ][]. If that doesn't answer your questions, feel free to email [???][].
+If you have questions, please see the [FAQ][]. If that doesn't answer your questions, feel free to [email us][tc39-conduct].
 
-[???]: mailto:???@???.com
-[Reporting Guidelines]: Reporting.md
+[tc39-conduct]: mailto:tc39-conduct@ecma-international.com
+[Reporting Guidelines]: /reporting
 [Speak Up! project]: http://speakup.io/coc.html
 [Django Project]: https://www.djangoproject.com/conduct/
-[FAQ]: FAQ.md
+[JSFoundation]: https://js.foundation/conduct/
+[FAQ]: /FAQ
