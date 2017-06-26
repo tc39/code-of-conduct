@@ -7,7 +7,7 @@ title: Enforcement
 
 All responses to reports of conduct violations will be managed by a [Code of Conduct Committee][] (“the Committee”).
 
-TC39 will establish this Committee, comprised of at least three members; the TC Chairman and viceChairmen will automatically be part of it. One member will be designated chair of the Committee and will be responsible for all reports back to TC39. TC39 will review membership on a regular basis.
+TC39 will establish this Committee, comprised of at least three members; the TC Chair and Vice-Chairs will automatically be part of it. One member will be designated Chair of the Committee and will be responsible for all reports back to TC39. TC39 will review membership on a regular basis.
 
 ### How the Committee Will Respond to Reports
 

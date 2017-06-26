@@ -7,7 +7,7 @@ title: Reporting
 
 If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct@ecma-international.org][tc39-conduct]. All reports will be kept confidential. Only members of the [Code of Conduct Committee](/code-of-conduct-proposal/subcommittee), and possibly the Ecma ExeCom, will receive the reports. No identity will be made public before the individuals concerned have agreed to it.
 
-If the act is ongoing, the Chairman, Vice-Chairman or any member of the Code of Conduct Committee should take immediate measures to stop it if possible, and to gather the information described below.
+If the act is ongoing, the Chair, Vice-Chair or any member of the Code of Conduct Committee should take immediate measures to stop it if possible, and to gather the information described below.
 
 In your report please include:
 
