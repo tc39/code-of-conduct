@@ -29,7 +29,7 @@ This isn’t an exhaustive list of things that you can’t do. Rather, take it i
 
 This Code of Conduct is enforced within all spaces managed by TC39. This includes IRC channels moderated by TC39, mailing lists such as esdiscuss, issue trackers on projects hosted by TC39, and TC39 events and meetings.
 
-If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct@ecma-international.com][tc39-conduct]. For more details, please see our [Reporting Guidelines][].
+If you believe someone is violating the Code of Conduct, we ask that you report it by emailing tc39-conduct-reports@googlegroups.com. For more details, please see our [Reporting Guidelines][].
 
 ### Be respectful
 
