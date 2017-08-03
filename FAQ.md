@@ -29,7 +29,7 @@ Real-life events, however, require a bit more care. TC39 wants to be sure that a
 
 ### What happens if someone violates the Code of Conduct?
 
-Our intent is that anyone in the community can stand up for this Code, and direct people who are unaware of this document. If that doesn't work, or if you need more help, you can contact [tc39-conduct@ecma-international.com][tc39-conduct]. For more details please see our [Reporting Guidelines][].
+Our intent is that anyone in the community can stand up for this Code, and direct people who are unaware of this document. If that doesn't work, or if you need more help, you can contact [tc39-conduct-reports@googlegroups.com][tc39-conduct]. For more details please see our [Reporting Guidelines][].
 
 ### Why do we need a Code of Conduct? Everyone knows not to be a jerk.
 
@@ -42,5 +42,5 @@ However, even if everyone were kind, compassionate, and familiar with codes of c
 You do -- in _your_ space. If you'd like to hang out in _our_ spaces (as clarified above), we have some simple guidelines to follow. If you want to, for example, form a group where TC39 proposals are discussed using language inappropriate for general channels then nobody's stopping you. We respect your right to establish whatever codes of conduct you want in the spaces that belong to you. Please honor this Code of Conduct in our spaces.
 
 [Code of Conduct]: /code-of-conduct-proposal
-[tc39-conduct]: mailto:tc39-conduct@ecma-international.com
+[tc39-conduct]: mailto:tc39-conduct-reports@googlegroups.com
 [Reporting Guidelines]: /code-of-conduct-proposal/reporting
