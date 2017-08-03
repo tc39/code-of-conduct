@@ -29,7 +29,7 @@ This isn’t an exhaustive list of things that you can’t do. Rather, take it i
 
 This Code of Conduct is enforced within all spaces managed by TC39. This includes IRC channels moderated by TC39, mailing lists such as esdiscuss, issue trackers on projects hosted by TC39, and TC39 events and meetings.
 
-If you believe someone is violating the Code of Conduct, we ask that you report it by emailing tc39-conduct-reports@googlegroups.com. For more details, please see our [Reporting Guidelines][].
+If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. For more details, please see our [Reporting Guidelines][].
 
 ### Be respectful
 
@@ -70,7 +70,7 @@ Disagreements, both social and technical, happen all the time. It is important t
 
 If you have questions, please see the [FAQ][]. If that doesn't answer your questions, feel free to [email us][tc39-conduct].
 
-[tc39-conduct]: mailto:tc39-conduct@ecma-international.com
+[tc39-conduct]: mailto:tc39-conduct-reports@googlegroups.com
 [Reporting Guidelines]: /code-of-conduct-proposal/reporting
 [Speak Up! project]: http://speakup.io/coc.html
 [Django Project]: https://www.djangoproject.com/conduct/
