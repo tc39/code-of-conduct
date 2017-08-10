@@ -5,22 +5,6 @@ title: Home
 
 # TC39 Code of Conduct
 
-## References
-
-### Ecma Bylaws Article 5.1 (extract):
-
-> Membership of a company shall be terminated in the following cases:
-> ...
-> - by expulsion for violation of Bylaws and Rules or for any other conduct prejudicial to the interest and correct functioning of the Association.
-
-### Ecma Bylaws, Articles 5.3, 5.4 5.5:
-
-> 5.3 Any proposal to expel an Ecma member shall be backed by at least one-fifth of all the ordinary members. The proposal to expel shall be on the agenda for the General Assembly at which is it going to be discussed so as to give the member the opportunity to present its case.
-> 5.4 A two-thirds majority of all the ordinary members is necessary to expel an Ecma member. Such expulsion will become effective 15 days after notification by registered mail.
-> 5.5 An Ecma member which had been expelled can only be re-admitted by the General Assembly with a two-thirds majority of all ordinary members.
-
-TC39 has specified further the terms of “prejudicial conduct” and has expanded on how to deal with incidents that can lead to it, in the (currently experimental) TC39Code of Conduct below. Other committees may want to have similar codes.
-
 ### Introduction
 
 Like the technical community as a whole, TC39 is made up of a mixture of professionals and volunteers from all over the world. To ensure a fair and balanced standards process, to avoid communication issues and unhappiness, and to promote inclusiveness, we have a few ground rules that we ask people to adhere to.
