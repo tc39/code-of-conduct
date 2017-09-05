@@ -5,7 +5,7 @@ title: Reporting
 
 # Reporting Guidelines
 
-If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. All reports will be kept confidential. Only members of the [Code of Conduct Committee](/code-of-conduct-proposal/subcommittee), and possibly the Ecma ExeCom, will receive the reports. No identity will be made public before the individuals concerned have agreed to it.
+If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. All reports will be kept confidential. Only members of the [Code of Conduct Committee](/code-of-conduct/subcommittee), and possibly the Ecma ExeCom, will receive the reports. No identity will be made public before the individuals concerned have agreed to it.
 
 If the act is ongoing, the Chair, Vice-Chair or any member of the Code of Conduct Committee should take immediate measures to stop it if possible, and to gather the information described below.
 
@@ -27,6 +27,6 @@ Reports will receive urgent and immediate attention from the Code of Conduct Com
 
 To appeal a decision of the Code of Conduct Committee, contact the [Ecma Secretariat][] which will transfer the matter to the Ecma ExeCom. 
 
-[Enforcement Manual]: /code-of-conduct-proposal/enforcement
+[Enforcement Manual]: /code-of-conduct/enforcement
 [tc39-conduct]: mailto:tc39-conduct-reports@googlegroups.com
 [Ecma Secretariat]: ???@ecma-international.com

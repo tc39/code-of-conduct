@@ -55,8 +55,8 @@ Disagreements, both social and technical, happen all the time. It is important t
 If you have questions, please see the [FAQ][]. If that doesn't answer your questions, feel free to [email us][tc39-conduct].
 
 [tc39-conduct]: mailto:tc39-conduct-reports@googlegroups.com
-[Reporting Guidelines]: /code-of-conduct-proposal/reporting
+[Reporting Guidelines]: /code-of-conduct/reporting
 [Speak Up! project]: http://speakup.io/coc.html
 [Django Project]: https://www.djangoproject.com/conduct/
 [JSFoundation]: https://js.foundation/conduct/
-[FAQ]: /code-of-conduct-proposal/FAQ
+[FAQ]: /code-of-conduct/FAQ
