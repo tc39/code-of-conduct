@@ -56,5 +56,5 @@ In the event of any conflict of interest - i.e., members who are personally conn
 
 TC39 has specified further the terms of “prejudicial conduct” and has expanded on how to deal with incidents that can lead to it, in the (currently experimental) TC39Code of Conduct below. Other committees may want to have similar codes.
 
-[Code of Conduct Committee]: /code-of-conduct-proposal/Committee
-[Reporting Guidelines]: /code-of-conduct-proposal/reporting
+[Code of Conduct Committee]: /code-of-conduct/Committee
+[Reporting Guidelines]: /code-of-conduct/reporting
