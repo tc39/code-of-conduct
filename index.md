@@ -3,9 +3,7 @@ layout: home
 title: TC39 Code of Conduct
 ---
 
-# TC39 Code of Conduct
-
-### Introduction
+## Introduction
 
 Like the technical community as a whole, TC39 is made up of a mixture of professionals and volunteers from all over the world. To ensure a fair and balanced standards process, to avoid communication issues and unhappiness, and to promote inclusiveness, we have a few ground rules that we ask people to adhere to.
 
@@ -50,14 +48,14 @@ Disagreements, both social and technical, happen all the time. It is important t
 
 (Original text courtesy of [JSFoundation][], [Speak Up! project][], and [Django Project][].)
 
-## Questions?
+### Questions?
 
 If you have questions, please see the [FAQ][]. If that doesn't answer your questions, feel free to [email us][tc39-conduct].
 
 ---
 
 
-# Reporting Guidelines
+## Reporting Guidelines
 
 If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. All reports will be kept confidential. Only members of the [Code of Conduct Committee][], and possibly the Ecma ExeCom, will receive the reports. No identity will be made public before the individuals concerned have agreed to it.
 
@@ -84,7 +82,7 @@ To appeal a decision of the Code of Conduct Committee, contact the [Ecma Secreta
 ---
 
 
-# Enforcement Manual
+## Enforcement Manual
 
 All responses to reports of conduct violations will be managed by a [Code of Conduct Committee][] (“the Committee”).
 
@@ -121,26 +119,9 @@ The Committee will never publicly discuss the issue; all public statements, if 
 
 In the event of any conflict of interest - i.e., members who are personally connected to a situation, a Committee member must immediately notify the other members, and recuse themselves. 
 
-## References
-
-### Ecma Bylaws Article 5.1 (extract):
-
-> Membership of a company shall be terminated in the following cases:
-> ...
-> - by expulsion for violation of Bylaws and Rules or for any other conduct prejudicial to the interest and correct functioning of the Association.
-
-### Ecma Bylaws, Articles 5.3, 5.4 5.5:
-
-> 5.3 Any proposal to expel an Ecma member shall be backed by at least one-fifth of all the ordinary members. The proposal to expel shall be on the agenda for the General Assembly at which is it going to be discussed so as to give the member the opportunity to present its case.
-> 5.4 A two-thirds majority of all the ordinary members is necessary to expel an Ecma member. Such expulsion will become effective 15 days after notification by registered mail.
-> 5.5 An Ecma member which had been expelled can only be re-admitted by the General Assembly with a two-thirds majority of all ordinary members.
-
-TC39 has specified further the terms of “prejudicial conduct” and has expanded on how to deal with incidents that can lead to it, in the TC39 Code of Conduct below. Other committees may want to have similar codes.
-
 ---
 
-
-# Code of Conduct Committee
+## Code of Conduct Committee
 
 The Code of Conduct Committee deals with violations in the [TC39 Code of Conduct][].
 
@@ -156,7 +137,7 @@ You can contact [tc39-conduct][]. For more details please see the [Reporting Gui
 
 ---
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 This FAQ attempts to address common questions and concerns around the [TC39 Code of Conduct][]. If you still have questions after reading it, please feel free to [contact us][tc39-conduct].
 
@@ -193,6 +174,23 @@ However, even if everyone were kind, compassionate, and familiar with codes of c
 ### This is censorship! I have the right to say whatever I want!
 
 You do -- in _your_ space. If you'd like to hang out in _our_ spaces (as clarified above), we have some simple guidelines to follow. If you want to, for example, form a group where TC39 proposals are discussed using language inappropriate for general channels then nobody's stopping you. We respect your right to establish whatever codes of conduct you want in the spaces that belong to you. Please honor this Code of Conduct in our spaces.
+
+## References
+
+### Ecma Bylaws Article 5.1 (extract):
+
+> Membership of a company shall be terminated in the following cases:
+> ...
+> - by expulsion for violation of Bylaws and Rules or for any other conduct prejudicial to the interest and correct functioning of the Association.
+
+### Ecma Bylaws, Articles 5.3, 5.4 5.5:
+
+> 5.3 Any proposal to expel an Ecma member shall be backed by at least one-fifth of all the ordinary members. The proposal to expel shall be on the agenda for the General Assembly at which is it going to be discussed so as to give the member the opportunity to present its case.
+> 5.4 A two-thirds majority of all the ordinary members is necessary to expel an Ecma member. Such expulsion will become effective 15 days after notification by registered mail.
+> 5.5 An Ecma member which had been expelled can only be re-admitted by the General Assembly with a two-thirds majority of all ordinary members.
+
+TC39 has specified further the terms of “prejudicial conduct” and has expanded on how to deal with incidents that can lead to it, in the TC39 Code of Conduct below. Other committees may want to have similar codes.
+
 
 [TC39 Code of Conduct]: /code-of-conduct/
 [Code of Conduct Committee]: #code-of-conduct-committee

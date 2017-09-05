@@ -6,8 +6,10 @@
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
 
-  // Positioning context for the mobile navigation icon
-  position: relative;
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  top: 0;
 }
 
 .site-title {
@@ -163,6 +165,7 @@
  * Page content
  */
 .page-content {
+  margin-top: 56px;
   padding: $spacing-unit 0;
 }
 
@@ -189,7 +192,18 @@
   font-size: 24px;
 }
 
+hr {
+  margin-top: 44px;
+}
 
+h1 {
+  display: inline;
+  margin: 0;
+}
+
+h2:not(:first-child) {
+  padding-top: 66px
+}
 
 /**
  * Posts
