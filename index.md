@@ -57,7 +57,7 @@ If you have questions, please see the [FAQ][]. If that doesn't answer your quest
 
 ## Reporting Guidelines
 
-If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. **All reports will be kept confidential.**
+If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. **All reports will be kept confidential.** See [Confidentiality][] for details.
 
 If the act is ongoing, the Chair, Vice-Chair or any member of the Code of Conduct Committee should take immediate measures to stop it if possible, and to gather the information described below.
 
@@ -78,6 +78,8 @@ Reports will receive urgent and immediate attention from the Code of Conduct Com
 ### Confidentiality
 
 The mailing list is addressed to members of [Code of Conduct Committee][], and reports will only be shared with others outside the Committee with permission of the reporter. No identity will be made public beyond the Code of Conduct Committee and the ECMA Executive Committee unless the individuals concerned have agreed to it. If you would prefer to share your report with only certain members of the Code of Conduct Committee, you may email it to a subset using their listed email addresses; this subset will not share the report with any others outside the subset without permission of the reporter.
+
+Although it is helpful for the Code of Conduct Committee to know a reporter's identity, the Committee will consider anonymous reports. Two avenues for submitting such an anonymous report that you may consider would be a throwaway email address, or onion routing via trusted intermediaries.
 
 ### Appealing
 
@@ -198,6 +200,7 @@ TC39 has specified further the terms of “prejudicial conduct” and has expand
 
 [TC39 Code of Conduct]: /code-of-conduct/
 [Code of Conduct Committee]: #code-of-conduct-committee
+[Confidentiality]: #confidentiality
 [Enforcement Manual]: #enforcement-manual
 [Reporting Guidelines]: #reporting-guidelines
 [FAQ]: #frequently-asked-questions
