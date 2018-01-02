@@ -86,7 +86,7 @@ To appeal a decision of the Code of Conduct Committee, contact the [Ecma Secreta
 
 All responses to reports of conduct violations will be managed by a [Code of Conduct Committee][] (“the Committee”).
 
-TC39 will establish this Committee, comprised of at least three members; the TC Chair and Vice-Chairs will be part of the committee by default, but may decline to participate. One member will be designated Chair of the Committee and will be responsible for all reports back to TC39. TC39 will review membership on a regular basis.
+TC39 will establish this Committee, comprised of at least three members. One member will be designated Chair of the Committee and will be responsible for all reports back to TC39. TC39 will review membership on a regular basis.
 
 ### How the Committee Will Respond to Reports
 
