@@ -79,7 +79,7 @@ Reports will receive urgent and immediate attention from the Code of Conduct Com
 
 The mailing list is addressed to members of [Code of Conduct Committee][], and reports will only be shared with others outside the Committee with permission of the reporter. No identity will be made public beyond the Code of Conduct Committee and the ECMA Executive Committee unless the individuals concerned have agreed to it. If you would prefer to share your report with only certain members of the Code of Conduct Committee, you may email it to a subset using their listed email addresses; this subset will not share the report with any others outside the subset without permission of the reporter.
 
-Although it is helpful for the Code of Conduct Committee to know a reporter's identity, the Committee will consider anonymous reports. Two avenues for submitting such an anonymous report that you may consider would be a throwaway email address, or onion routing via trusted intermediaries.
+Although it is helpful for the Code of Conduct Committee to know a reporter's identity, the Committee will consider anonymous reports. Two avenues for submitting such an anonymous report that you may consider would be a throwaway email address, or having a colleague or friend submit a report on your behalf.
 
 ### Appealing
 
