@@ -135,7 +135,7 @@ Committee Members:
 
 * Brian Terlson (brian.terlson@microsoft.com)
 * Jory Burson (jory@bocoup.com)
-* Aki Rose (hi@akibraun.com)
+* Aki Rose (hi@akibraun.com) (on leave)
 * Jordan Harband (ljharb@gmail.com)
 * Leo Balter (leo@bocoup.com) (on leave until February)
 * Myles Borin (mborins@google.com)
