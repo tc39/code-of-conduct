@@ -133,13 +133,16 @@ The Code of Conduct Committee deals with violations in the [TC39 Code of Conduct
 
 Committee Members:
 
-* Name (Email)
-* Name (Email)
-* Name (Email)
-* Name (Email)
-* Name (Email)
+* Brian Terlson (brian.terlson@microsoft.com)
+* Jory Burson (jory@bocoup.com)
+* Aki Rose (hi@akibraun.com) (on leave)
+* Jordan Harband (ljharb@gmail.com)
+* Leo Balter (leo@bocoup.com)
+* Myles Borin (mborins@google.com)
+* Daniel Ehrenberg (littledan@igalia.com)
+* Keith Cirkel (keithamus@github.com)
 
-You can contact the group above by writing an email to [tc39-conduct][]. For more details please see the [Reporting Guidelines][].
+You can contact these people collectively at [tc39-conduct][] or individually at their email address listed above. For more details please see the [Reporting Guidelines][].
 
 ---
 
