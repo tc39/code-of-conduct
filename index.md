@@ -137,7 +137,7 @@ Committee Members:
 * Jory Burson (jory@bocoup.com)
 * Aki Rose (hi@akibraun.com) (on leave)
 * Jordan Harband (ljharb@gmail.com)
-* Leo Balter (leo@bocoup.com) (on leave until February)
+* Leo Balter (leo@bocoup.com)
 * Myles Borin (mborins@google.com)
 * Daniel Ehrenberg (littledan@igalia.com)
 * Keith Cirkel (keithamus@github.com)
