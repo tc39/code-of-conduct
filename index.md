@@ -57,7 +57,7 @@ If you have questions, please see the [FAQ][]. If that doesn't answer your quest
 
 ## Reporting Guidelines
 
-If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. **All reports will be kept confidential.** See [Confidentiality][] for details.
+If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. All reports will be kept confidential. Only members of the [Code of Conduct Committee][], and possibly the Ecma ExeCom, will receive the reports. No identity will be made public before the individuals concerned have agreed to it.
 
 If the act is ongoing, the Chair, Vice-Chair or any member of the Code of Conduct Committee should take immediate measures to stop it if possible, and to gather the information described below.
 
@@ -74,12 +74,6 @@ In your report please include:
 ### What happens after you file a report?
 
 Reports will receive urgent and immediate attention from the Code of Conduct Committee. Please refer to the [Enforcement Manual][] for the complete information on how reports will be processed.
-
-### Confidentiality
-
-The mailing list is addressed to members of [Code of Conduct Committee][], and reports will only be shared with others outside the Committee with permission of the reporter. No identity will be made public beyond the Code of Conduct Committee and the ECMA Executive Committee unless the individuals concerned have agreed to it. If you would prefer to share your report with only certain members of the Code of Conduct Committee, you may email it to a subset using their listed email addresses; this subset will not share the report with any others outside the subset without permission of the reporter.
-
-Although it is helpful for the Code of Conduct Committee to know a reporter's identity, the Committee will consider anonymous reports. Two avenues for submitting such an anonymous report that you may consider would be a throwaway email address, or having a colleague or friend submit a report on your behalf.
 
 ### Appealing
 
@@ -113,7 +107,7 @@ The Committee should aim to have a resolution agreed very rapidly; if not agreed
 
 ### Resolution
 
-The Committee must agree on a resolution by consensus. If the Committee cannot reach consensus, the Committee will turn the matter over to the Ecma ExeCom for resolution, after the Committee confirms with the reporter whether it is acceptable to share the report with the ExeCom.
+The Committee must agree on a resolution by consensus. If the Committee cannot reach consensus, the Committee will turn the matter over to the Ecma ExeCom for resolution.
 
 Responses will be determined by the Committee on the basis of the information gathered and of the potential consequences. It may include taking no further action, issuing a reprimand (private or public), asking for an apology (private or public), or contacting the company that the individual belongs to. It could even result in a temporary or permanent exclusion from some of the TC39 working spaces such as mailing lists or IRC. For any contemplated action other than a reprimand or an apology, the Committee shall inform the Ecma ExeCom. Any exclusion needs to follow the process described in the Ecma bylaws.
 
@@ -123,7 +117,7 @@ The Committee will never publicly discuss the issue; all public statements, if 
 
 ### Conflicts of Interest
 
-In the event of any conflict of interest - i.e., members who are personally connected to a situation, a Committee member must immediately notify the other members, and recuse themselves.
+In the event of any conflict of interest - i.e., members who are personally connected to a situation, a Committee member must immediately notify the other members, and recuse themselves. 
 
 ---
 
@@ -203,7 +197,6 @@ TC39 has specified further the terms of “prejudicial conduct” and has expand
 
 [TC39 Code of Conduct]: /code-of-conduct/
 [Code of Conduct Committee]: #code-of-conduct-committee
-[Confidentiality]: #confidentiality
 [Enforcement Manual]: #enforcement-manual
 [Reporting Guidelines]: #reporting-guidelines
 [FAQ]: #frequently-asked-questions
