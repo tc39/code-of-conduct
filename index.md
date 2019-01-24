@@ -134,6 +134,7 @@ Committee Members:
 * Leo Balter (leo@bocoup.com)
 * Myles Borin (mborins@google.com)
 * Keith Cirkel (keithamus@github.com)
+* Yulia Startsev (yulia@mozilla.com)
 
 You can contact these people collectively at [tc39-conduct][] or individually at their email address listed above. For more details please see the [Reporting Guidelines][].
 
