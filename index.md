@@ -204,5 +204,5 @@ TC39 has specified further the terms of “prejudicial conduct” and has expand
 [tc39-conduct]: mailto:tc39-conduct-reports@googlegroups.com
 [Speak Up! project]: http://speakup.io/coc.html
 [Django Project]: https://www.djangoproject.com/conduct/
-[JSFoundation]: https://js.foundation/conduct/
+[OpenJS Foundation]: https://code-of-conduct.openjsf.org
 
