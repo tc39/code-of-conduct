@@ -15,7 +15,7 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 
 ### Be respectful
 
-Respect is a fundamental value of the standardization work. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the TC39 community should be respectful when dealing with other members as well as with people outside the TC39 community.
+Respect is a fundamental value of the standardization work. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the TC39 community should be respectful when dealing with other members as well as with people outside the TC39 community.
 
 ### Be friendly and patient
 
@@ -27,16 +27,16 @@ We strive to be a community that welcomes and supports people of all backgrounds
 
 ### Be considerate
 
-Your work will be used by other people, and you in turn will depend on the work of others. Any decision you make will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
+Your work will be used by other people, and you in turn will depend on the work of others. Any decision you make will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we’re a world-wide community, so you might not be communicating in someone else’s primary language.
 
 ### Be careful in the words that you choose
 
-We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
+We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren’t acceptable. This includes, but is not limited to:
 
 * Violent threats or language directed against another person.
 * Discriminatory jokes and language.
 * Posting sexually explicit or violent material.
-* Posting (or threatening to post) other people's personally identifying information ("doxing").
+* Posting (or threatening to post) other people’s personally identifying information (“doxing”).
 * Personal insults, especially those using racist or sexist terms.
 * Unwelcome sexual attention.
 * Advocating for, or encouraging, any of the above behavior.
@@ -46,14 +46,13 @@ We are a community of professionals, and we conduct ourselves professionally. Be
 
 Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. There is strength in having a varied community with people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
-(Original text courtesy of [JSFoundation][], [Speak Up! project][], and [Django Project][].)
+(Original text courtesy of [OpenJS Foundation][], [Speak Up! project][], and [Django Project][].)
 
 ### Questions?
 
-If you have questions, please see the [FAQ][]. If that doesn't answer your questions, feel free to [email us][tc39-conduct].
+If you have questions, please see the [FAQ][]. If that doesn’t answer your questions, feel free to [email us][tc39-conduct].
 
 ---
-
 
 ## Reporting Guidelines
 
@@ -63,13 +62,13 @@ If the act is ongoing, the Chair, Vice-Chair or any member of the Code of Conduc
 
 In your report please include:
 
-*   Your contact info (so we can get in touch with you if we need to follow up).
-*   Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
-*   When and where the incident occurred. Please be as specific as possible.
-*   Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger) please include a link. Screenshots can be useful in the case something is edited or deleted before action is taken.
-*   Any extra context you believe existed for the incident.
-*   If you believe this incident is ongoing.
-*   Any other information you believe we should have.
+* Your contact info (so we can get in touch with you if we need to follow up).
+* Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
+* When and where the incident occurred. Please be as specific as possible.
+* Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger) please include a link. Screenshots can be useful in the case something is edited or deleted before action is taken.
+* Any extra context you believe existed for the incident.
+* If you believe this incident is ongoing.
+* Any other information you believe we should have.
 
 ### What happens after you file a report?
 
@@ -77,10 +76,9 @@ Reports will receive urgent and immediate attention from the Code of Conduct Com
 
 ### Appealing
 
-To appeal a decision of the Code of Conduct Committee, contact the [Ecma Secretariat][] which will transfer the matter to the Ecma ExeCom. 
+To appeal a decision of the Code of Conduct Committee, contact the [Ecma Secretariat][] which will transfer the matter to the Ecma ExeCom.
 
 ---
-
 
 ## Enforcement Manual
 
@@ -96,10 +94,10 @@ See the [Reporting Guidelines][] for details of what reports should contain. If 
 
 The Committee will then review the incident and determine, to the best of their ability:
 
-*   What happened.
-*   Whether this event constitutes a Code of Conduct violation.
-*   Who, if anyone, was involved in the violation.
-*   Whether this is an ongoing situation.
+* What happened.
+* Whether this event constitutes a Code of Conduct violation.
+* Who, if anyone, was involved in the violation.
+* Whether this is an ongoing situation.
 
 This information will be collected in writing, and whenever possible the Committee’s deliberations will be recorded and retained (e.g. IRC transcripts, email discussions, or recorded voice conversations).
 
@@ -117,7 +115,7 @@ The Committee will never publicly discuss the issue; all public statements, if 
 
 ### Conflicts of Interest
 
-In the event of any conflict of interest - i.e., members who are personally connected to a situation, a Committee member must immediately notify the other members, and recuse themselves. 
+In the event of any conflict of interest - i.e., members who are personally connected to a situation, a Committee member must immediately notify the other members, and recuse themselves.
 
 ---
 
@@ -146,27 +144,27 @@ This FAQ attempts to address common questions and concerns around the [TC39 Code
 
 ### Why have you adopted a Code of Conduct?
 
-We think the JS community is awesome. If you're familiar with TC39, you'll probably notice we are making progressive efforts to promote and improve diversity and inclusion to match the Code.
+We think the JS community is awesome. If you’re familiar with TC39, you’ll probably notice we are making progressive efforts to promote and improve diversity and inclusion to match the Code.
 
 We know that the TC39 community is transparent, friendly, and welcoming. We want to make sure everyone else knows it too.
 
-### What does it mean to "adopt" a Code of Conduct?
+### What does it mean to “adopt” a Code of Conduct?
 
-For the most part, we don't think it means large changes. We think that the text does a really good job describing the way TC39 already conducts itself. We expect that most people will simply continue to behave in the awesome way they have for years.
+For the most part, we don’t think it means large changes. We think that the text does a really good job describing the way TC39 already conducts itself. We expect that most people will simply continue to behave in the awesome way they have for years.
 
-However, we do expect that people will abide by the spirit and words of the CoC when in "official" TC39 spaces. This code has been adopted by TC39. That means that it'll apply both in community spaces _and_ at TC39 events.
+However, we do expect that people will abide by the spirit and words of the CoC when in “official” TC39 spaces. This code has been adopted by TC39. That means that it’ll apply both in community spaces _and_ at TC39 events.
 
-In practice, this means any TC39 IRC channels, bug tracking and code review tools, and "official" TC39 events.
+In practice, this means any TC39 IRC channels, bug tracking and code review tools, and “official” TC39 events.
 
 ### What about TC39 events?
 
-This Code of Conduct also covers all TC39 events since it is all about how we interact as a community. It's about saying that the TC39 community will be open, friendly, and welcoming. The core issue is about ensuring the conversations we have are productive and inviting for all.
+This Code of Conduct also covers all TC39 events since it is all about how we interact as a community. It’s about saying that the TC39 community will be open, friendly, and welcoming. The core issue is about ensuring the conversations we have are productive and inviting for all.
 
-Real-life events, however, require a bit more care. TC39 wants to be sure that all of its events have policies and procedures in place for handling harassment. It's especially important to us that real-life events take steps to protect the physical and mental security of their participants.
+Real-life events, however, require a bit more care. TC39 wants to be sure that all of its events have policies and procedures in place for handling harassment. It’s especially important to us that real-life events take steps to protect the physical and mental security of their participants.
 
 ### What happens if someone violates the Code of Conduct?
 
-Our intent is that anyone in the community can stand up for this Code, and direct people who are unaware of this document. If that doesn't work, or if you need more help, you can contact [tc39-conduct-reports@googlegroups.com][tc39-conduct]. For more details please see our [Reporting Guidelines][].
+Our intent is that anyone in the community can stand up for this Code, and direct people who are unaware of this document. If that doesn’t work, or if you need more help, you can contact [tc39-conduct-reports@googlegroups.com][tc39-conduct]. For more details please see our [Reporting Guidelines][].
 
 ### Why do we need a Code of Conduct? Everyone knows not to be a jerk.
 
@@ -176,7 +174,7 @@ However, even if everyone were kind, compassionate, and familiar with codes of c
 
 ### This is censorship! I have the right to say whatever I want!
 
-You do -- in _your_ space. If you'd like to hang out in _our_ spaces (as clarified above), we have some simple guidelines to follow. If you want to, for example, form a group where TC39 proposals are discussed using language inappropriate for general channels then nobody's stopping you. We respect your right to establish whatever codes of conduct you want in the spaces that belong to you. Please honor this Code of Conduct in our spaces.
+You do -- in _your_ space. If you’d like to hang out in _our_ spaces (as clarified above), we have some simple guidelines to follow. If you want to, for example, form a group where TC39 proposals are discussed using language inappropriate for general channels then nobody’s stopping you. We respect your right to establish whatever codes of conduct you want in the spaces that belong to you. Please honor this Code of Conduct in our spaces.
 
 ## References
 
@@ -184,7 +182,8 @@ You do -- in _your_ space. If you'd like to hang out in _our_ spaces (as clarifi
 
 > Membership of a company shall be terminated in the following cases:
 > ...
-> - by expulsion for violation of Bylaws and Rules or for any other conduct prejudicial to the interest and correct functioning of the Association.
+>
+> * by expulsion for violation of Bylaws and Rules or for any other conduct prejudicial to the interest and correct functioning of the Association.
 
 ### Ecma Bylaws, Articles 5.3, 5.4 5.5:
 
@@ -194,7 +193,6 @@ You do -- in _your_ space. If you'd like to hang out in _our_ spaces (as clarifi
 
 TC39 has specified further the terms of “prejudicial conduct” and has expanded on how to deal with incidents that can lead to it, in the TC39 Code of Conduct below. Other committees may want to have similar codes.
 
-
 [TC39 Code of Conduct]: /code-of-conduct/
 [Code of Conduct Committee]: #code-of-conduct-committee
 [Enforcement Manual]: #enforcement-manual
@@ -202,7 +200,6 @@ TC39 has specified further the terms of “prejudicial conduct” and has expand
 [FAQ]: #frequently-asked-questions
 [Ecma Secretariat]: mailto:istvan@ecma-international.com
 [tc39-conduct]: mailto:tc39-conduct-reports@googlegroups.com
-[Speak Up! project]: http://speakup.io/coc.html
+[Speak Up! project]: http://web.archive.org/web/20141109123859/http://speakup.io/coc.html
 [Django Project]: https://www.djangoproject.com/conduct/
 [OpenJS Foundation]: https://code-of-conduct.openjsf.org
-
