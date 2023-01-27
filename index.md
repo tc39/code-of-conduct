@@ -126,7 +126,7 @@ The Code of Conduct Committee deals with violations in the [TC39 Code of Conduct
 Committee Members:
 
 * Brian Terlson (brian.terlson@microsoft.com)
-* Jory Burson (jory@bocoup.com)
+* Jory Burson (jory@thestoryofjory.com)
 * Jordan Harband (ljharb@gmail.com)
 * Keith Cirkel (keithamus@github.com)
 * Yulia Startsev (yulia@mozilla.com)
