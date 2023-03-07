@@ -132,7 +132,6 @@ Committee Members:
 * Yulia Startsev (yulia@mozilla.com)
 * Chris de Almeida (TC39@SoftwareChris.com)
 * Mark Cohen (contact@mpc.sh)
-* Hemanth HM (hemanth.hm@gmail.com)
 
 You can contact these people collectively at [tc39-conduct][] or individually at their email address listed above. For more details please see the [Reporting Guidelines][].
 
