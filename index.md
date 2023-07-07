@@ -196,7 +196,7 @@ TC39 has specified further the terms of “prejudicial conduct” and has expand
 [Enforcement Manual]: #enforcement-manual
 [Reporting Guidelines]: #reporting-guidelines
 [FAQ]: #frequently-asked-questions
-[Ecma Secretariat]: mailto:istvan@ecma-international.com
+[Ecma Secretariat]: mailto:samina@ecma-international.org
 [tc39-conduct]: mailto:tc39-conduct-reports@googlegroups.com
 [Speak Up! project]: http://web.archive.org/web/20141109123859/http://speakup.io/coc.html
 [Django Project]: https://www.djangoproject.com/conduct/
