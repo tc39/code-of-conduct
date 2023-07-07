@@ -129,6 +129,8 @@ Committee Members:
 * Chris de Almeida (TC39@SoftwareChris.com)
 * Mark Cohen (contact@mpc.sh)
 * Hemanth HM (hemanth.hm@gmail.com)
+* Tab Atkins-Bittner (atkins.tab@gmail.com)
+* Romulo Cintra (rcintra@igalia.com)
 
 You can contact these people collectively at [tc39-conduct][] or individually at their email address listed above. For more details please see the [Reporting Guidelines][].
 
