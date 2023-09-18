@@ -60,6 +60,12 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 
 If the act is ongoing, the Chair, Vice-Chair or any member of the Code of Conduct Committee should take immediate measures to stop it if possible, and to gather the information described below.
 
+### Reporting Anonymously
+
+If you do not feel comfortable sending your report to the entire Code of Conduct Committee, then you may email one or more [Code of Conduct Committee member(s)](#code-of-conduct-committee) directly.
+
+If that is not possible, we recommend creating a throwaway email account, and using that to send the report. This way, it is possible for the Committee to respond to you (to seek more information, for example).
+
 In your report please include:
 
 * Your contact info (so we can get in touch with you if we need to follow up).
