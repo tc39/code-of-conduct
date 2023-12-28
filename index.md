@@ -9,7 +9,7 @@ Like the technical community as a whole, TC39 is made up of a mixture of profess
 
 This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended a guide to make it easier to enrich all of us and the technical communities in which we participate and empower others to speak.
 
-This Code of Conduct is enforced within all spaces managed by TC39. This includes chat channels/rooms moderated by TC39, issue trackers on projects hosted by TC39, and TC39 events and meetings.
+This Code of Conduct is enforced within all spaces managed by TC39. This includes chat rooms and forums moderated by TC39, issue trackers on projects hosted by TC39, and TC39 events and meetings.
 
 If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. For more details, please see our [Reporting Guidelines][].
 
@@ -71,7 +71,7 @@ In your report please include:
 * Your contact info (so we can get in touch with you if we need to follow up).
 * Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
 * When and where the incident occurred. Please be as specific as possible.
-* Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger) please include a link. Screenshots can be useful in the case something is edited or deleted before action is taken.
+* Your account of what occurred. If there is a publicly available record (e.g. project issue, forum post, or a public chat log) please include a link. Screenshots can be useful in the case something is edited or deleted before action is taken.
 * Any extra context you believe existed for the incident.
 * If you believe this incident is ongoing.
 * Any other information you believe we should have.
@@ -105,7 +105,7 @@ The Committee will then review the incident and determine, to the best of their 
 * Who, if anyone, was involved in the violation.
 * Whether this is an ongoing situation.
 
-This information will be collected in writing, and whenever possible the Committee’s deliberations will be recorded and retained (e.g. IRC transcripts, email discussions, or recorded voice conversations).
+This information will be collected in writing, and whenever possible the Committee’s deliberations will be recorded and retained (e.g. chat transcripts, email discussions, or recorded voice conversations).
 
 The Committee should aim to have a resolution agreed very rapidly; if not agreed within a week, it will inform the parties of the planned date.
 
@@ -113,7 +113,7 @@ The Committee should aim to have a resolution agreed very rapidly; if not agreed
 
 The Committee must agree on a resolution by consensus. If the Committee cannot reach consensus, the Committee will turn the matter over to the Ecma ExeCom for resolution.
 
-Responses will be determined by the Committee on the basis of the information gathered and of the potential consequences. It may include taking no further action, issuing a reprimand (private or public), asking for an apology (private or public), or contacting the company that the individual belongs to. It could even result in a temporary or permanent exclusion from some of the TC39 working spaces such as mailing lists or IRC. For any contemplated action other than a reprimand or an apology, the Committee shall inform the Ecma ExeCom. Any exclusion needs to follow the process described in the Ecma bylaws.
+Responses will be determined by the Committee on the basis of the information gathered and of the potential consequences. It may include taking no further action, issuing a reprimand (private or public), asking for an apology (private or public), or contacting the company that the individual belongs to. It could even result in a temporary or permanent exclusion from some of the TC39 working spaces such as repositories, forums, or chat. For any contemplated action other than a reprimand or an apology, the Committee shall inform the Ecma ExeCom. Any exclusion needs to follow the process described in the Ecma bylaws.
 
 Such actions taken by the Committee will be reported as part of the TC39 report to the ExeCom.
 
@@ -155,9 +155,9 @@ We know that the TC39 community is transparent, friendly, and welcoming. We want
 
 For the most part, we don’t think it means large changes. We think that the text does a really good job describing the way TC39 already conducts itself. We expect that most people will simply continue to behave in the awesome way they have for years.
 
-However, we do expect that people will abide by the spirit and words of the CoC when in “official” TC39 spaces. This code has been adopted by TC39. That means that it’ll apply both in community spaces _and_ at TC39 events.
+However, we do expect that people will abide by the spirit and words of the CoC when in official TC39 spaces. This code has been adopted by TC39. That means that it’ll apply both in community spaces _and_ at TC39 events.
 
-In practice, this means any TC39 IRC channels, bug tracking and code review tools, and “official” TC39 events.
+In practice, this means any TC39 chat rooms, issue tracking and code review tools, and official TC39 events.
 
 ### What about TC39 events?
 
