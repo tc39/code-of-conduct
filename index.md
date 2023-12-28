@@ -9,7 +9,7 @@ Like the technical community as a whole, TC39 is made up of a mixture of profess
 
 This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended a guide to make it easier to enrich all of us and the technical communities in which we participate and empower others to speak.
 
-This Code of Conduct is enforced within all spaces managed by TC39. This includes IRC channels moderated by TC39, mailing lists such as esdiscuss, issue trackers on projects hosted by TC39, and TC39 events and meetings.
+This Code of Conduct is enforced within all spaces managed by TC39. This includes chat channels/rooms moderated by TC39, issue trackers on projects hosted by TC39, and TC39 events and meetings.
 
 If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. For more details, please see our [Reporting Guidelines][].
 
@@ -96,7 +96,7 @@ TC39 will establish this Committee, comprised of at least three members. One mem
 
 When a report is sent to the Committee they will reply to the report to confirm receipt within 24 hours.
 
-See the [Reporting Guidelines][] for details of what reports should contain. If a report doesn’t contain enough information, the Committee will strive to obtain all relevant data before acting. The Commitee is empowered to act on the TC39’s behalf in contacting any individuals involved to get a more complete account of events.
+See the [Reporting Guidelines][] for details of what reports should contain. If a report doesn’t contain enough information, the Committee will strive to obtain all relevant data before acting. The Committee is empowered to act on the TC39’s behalf in contacting any individuals involved to get a more complete account of events.
 
 The Committee will then review the incident and determine, to the best of their ability:
 
@@ -134,7 +134,6 @@ Committee Members:
 * Jordan Harband (ljharb@gmail.com)
 * Chris de Almeida (TC39@SoftwareChris.com)
 * Mark Cohen (contact@mpc.sh)
-* Hemanth HM (hemanth.hm@gmail.com)
 * Tab Atkins-Bittner (jackalmage@gmail.com)
 * Romulo Cintra (rcintra@igalia.com)
 
